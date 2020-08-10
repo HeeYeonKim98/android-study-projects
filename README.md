@@ -3,7 +3,7 @@
 
 ### Start
 
-    blid -> run
+    bulid -> run
     
     
 ### Contents
